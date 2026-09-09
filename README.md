@@ -36,7 +36,3 @@ The objective of this project is to make regular recipes customisable according 
 
 6. User Profile: This will allow the users to keep track of their username/password, as well as log out from the app.
    - Key Components: Swift UI and database handling
-
-
-
-# Growsari
