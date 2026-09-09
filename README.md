@@ -38,6 +38,13 @@ The objective of this project is to make regular recipes customisable according 
 
 ## Demo
 
+https://github.com/user-attachments/assets/86164919-d79b-41b9-a4b5-c5d1425cc0a9
+
+
+
+
+
+
 
 
 
